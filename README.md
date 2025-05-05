@@ -1,4 +1,4 @@
-# Valkya 2.0 - Bot de modération Discord
+# Valkya 2.0 - Bot multi-tools en cours de developpement
 
 ## Fonctionnalités principales
 - Modération complète (ban, kick, mute, warn, clear, purge, antiraid, slowmode, tempban, lock, unlock, give/remove role...)
@@ -44,4 +44,4 @@ module.exports = {
 ```
 
 ## Support
-Pour toute question, ouvre un ticket sur le serveur Discord du projet ou contacte le développeur.
+Pour toute question, ouvre un ticket sur le serveur Discord du projet (https//discord.gg/valkya) ou contacte le développeur 'one_day_.'.
